@@ -133,19 +133,19 @@
 		-moz-transform-origin: 250% 50%;
 		animation: 
 				cssload-rota 1.9s linear infinite,
-				cssload-opa 6.04s ease-in-out infinite alternate;
+				cssload-opa 6.0s ease-in-out infinite alternate;
 		-o-animation: 
 				cssload-rota 1.9s linear infinite,
-				cssload-opa 6.04s ease-in-out infinite alternate;
+				cssload-opa 6.0s ease-in-out infinite alternate;
 		-ms-animation: 
 				cssload-rota 1.9s linear infinite,
-				cssload-opa 6.04s ease-in-out infinite alternate;
+				cssload-opa 6.0s ease-in-out infinite alternate;
 		-webkit-animation: 
 				cssload-rota 1.9s linear infinite,
-				cssload-opa 6.04s ease-in-out infinite alternate;
+				cssload-opa 6.0s ease-in-out infinite alternate;
 		-moz-animation: 
 				cssload-rota 1.9s linear infinite,
-				cssload-opa 6.04s ease-in-out infinite alternate;
+				cssload-opa 6.0s ease-in-out infinite alternate;
 }
 
 
