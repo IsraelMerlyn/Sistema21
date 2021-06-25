@@ -106,19 +106,19 @@
 		-moz-transform-origin: 50% -150%;
 		animation: 
 				cssload-rota 1.6s linear infinite,
-				cssload-opa 5.89s ease-in-out infinite alternate;
+				cssload-opa 5.8s ease-in-out infinite alternate;
 		-o-animation: 
 				cssload-rota 1.6s linear infinite,
-				cssload-opa 5.89s ease-in-out infinite alternate;
+				cssload-opa 5.8s ease-in-out infinite alternate;
 		-ms-animation: 
 				cssload-rota 1.6s linear infinite,
-				cssload-opa 5.89s ease-in-out infinite alternate;
+				cssload-opa 5.8s ease-in-out infinite alternate;
 		-webkit-animation: 
 				cssload-rota 1.6s linear infinite,
-				cssload-opa 5.89s ease-in-out infinite alternate;
+				cssload-opa 5.8s ease-in-out infinite alternate;
 		-moz-animation: 
 				cssload-rota 1.6s linear infinite,
-				cssload-opa 5.89s ease-in-out infinite alternate;
+				cssload-opa 5.8s ease-in-out infinite alternate;
 }
 
 #cssload-pgloading .cssload-bokeh li:nth-child(4) {
