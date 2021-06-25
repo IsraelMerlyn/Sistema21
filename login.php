@@ -1,4 +1,5 @@
-<?php session_start();
+<?php 
+	session_start();
 ?>
 <!DOCTYPE html>
 <html>
@@ -50,20 +51,20 @@
 		-webkit-transform-origin: 50% 250%;
 		-moz-transform-origin: 50% 250%;
 		animation: 
-				cssload-rota 1.3s linear infinite,
-				cssload-opa 4.22s ease-in-out infinite alternate;
+				cssload-rota 1.2s linear infinite,
+				cssload-opa 4.2s ease-in-out infinite alternate;
 		-o-animation: 
-				cssload-rota 1.3s linear infinite,
-				cssload-opa 4.22s ease-in-out infinite alternate;
+				cssload-rota 1.2s linear infinite,
+				cssload-opa 4.2s ease-in-out infinite alternate;
 		-ms-animation: 
-				cssload-rota 1.3s linear infinite,
-				cssload-opa 4.22s ease-in-out infinite alternate;
+				cssload-rota 1.2s linear infinite,
+				cssload-opa 4.2s ease-in-out infinite alternate;
 		-webkit-animation: 
-				cssload-rota 1.3s linear infinite,
-				cssload-opa 4.22s ease-in-out infinite alternate;
+				cssload-rota 1.2s linear infinite,
+				cssload-opa 4.2s ease-in-out infinite alternate;
 		-moz-animation: 
-				cssload-rota 1.3s linear infinite,
-				cssload-opa 4.22s ease-in-out infinite alternate;
+				cssload-rota 1.2s linear infinite,
+				cssload-opa 4.2s ease-in-out infinite alternate;
 }
 
 #cssload-pgloading .cssload-bokeh li:nth-child(2) {
